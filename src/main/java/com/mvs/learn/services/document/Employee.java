@@ -8,7 +8,7 @@ public class Employee {
 	@Id
 	private String id;
 
-	private String email;
+	private String email="spatasha";
 	private String fullName;
 	private String managerEmail;
 	public String getId() {
